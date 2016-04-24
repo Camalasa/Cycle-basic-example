@@ -22,7 +22,8 @@
     "rx": "^4.1.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack && node server.js"
   },
   "author": "",
   "license": "ISC"
